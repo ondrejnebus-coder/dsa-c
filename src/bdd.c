@@ -1,7 +1,7 @@
 /*
  * BDD Implementation in C (C11 compatible)
  * Supports up to 17 variables for Boolean function evaluation
- * Includes basic reduction and randomized best ordering search
+ * Includes basic reduction and a correctness tester
  */
 
 #include <stdio.h>
